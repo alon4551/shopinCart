@@ -1,0 +1,13 @@
+[
+    {"name":"computer","price":100},
+    {"name":"potato","price":1},
+    {"name":"apple","price":2},
+    {"name":"banana","price":7},
+    {"name":"cherry","price":20},
+    {"name":"mango","price":15},
+    {"name":"orange","price":6},
+    {"name":"cucmber","price":4},
+    {"name":"peper","price":2},
+    {"name":"tomato","price":4},
+    {"name":"carrot","price":8}
+]

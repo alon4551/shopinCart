@@ -1,0 +1,33 @@
+.navbar {
+    position: absolute;
+    display: flex;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.cartBtn:hover .hidden {
+    display: block;
+}
+
+.navbar {
+    background-color: lightgray;
+    padding: 10px;
+
+}
+
+h2 {
+    font-size: 25px;
+    color: black;
+    box-shadow: 4px 4px 4px 4px rgba(0, 0, 0, 0.2);
+}
+
+button {
+    border: 1px solid black;
+    border-radius: 15%;
+    color: white;
+    background-color: black;
+
+}

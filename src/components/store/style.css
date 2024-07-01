@@ -1,0 +1,10 @@
+.store {
+    top: 150px;
+    left: 0px;
+    width: 100%;
+    position: absolute;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    gap: 5px;
+}

@@ -1,0 +1,10 @@
+.item {
+    display: flex;
+    flex-direction: column;
+    flex-basis: calc(100% / 6);
+    border: 1px solid black;
+    box-sizing: border-box;
+    background-color: darkgray;
+    color:black;
+    border-radius: 10%;
+}

@@ -1,0 +1,9 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    height: auto;
+    width: 100%;
+    align-items: top;
+    color: black;
+}

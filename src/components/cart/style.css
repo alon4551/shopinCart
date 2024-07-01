@@ -1,0 +1,24 @@
+.hidden {
+    position: absolute;
+    top: 80px;
+    width: 100%;
+    right: 0;
+    z-index: 1;
+    display: none;
+}
+
+.cart {
+    display: flex;
+    justify-content: center;
+    color: black;
+}
+
+table {
+    gap: 10px;
+}
+
+tr,
+td,
+table {
+    border: 1px solid black;
+}
